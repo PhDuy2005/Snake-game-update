@@ -1,7 +1,4 @@
-#include <conio.h> 
-#include <iostream> 
-#include <windows.h>
-using namespace std;
+#include "include_libraries.h"
 
 int main() {
 	return 0;

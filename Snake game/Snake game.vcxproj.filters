@@ -18,5 +18,8 @@
     <ClCompile Include="MainFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="include_libraries.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
